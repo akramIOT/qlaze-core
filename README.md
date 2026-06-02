@@ -21,7 +21,6 @@ export PYTHONPATH=src
 python -m qlaze.bench -n 1000
 python -m qlaze.harness_latency -n 200
 ```
-
 Full reproduction (10,000 microbench trials + latency harness):
 
 ```bash
@@ -49,6 +48,27 @@ artifacts/     # generated CSV (gitignored except sample)
 
 Akram Sheriff, *QLAZE: Quantum-Resistant Lattice-Anchored Zero-Trust Ephemeral Identity for Multi-Agent Orchestration*, 2026.
 
+## For citing QLAZE-core
+
+@techreport{sheriff2026qlaze,
+  author      = {Akram Sheriff},
+  title       = {{QLAZE}: Quantum-Resistant Lattice-Anchored Zero-Trust Ephemeral Identity Protocol for Autonomous Multi-Agent Orchestration Networks},
+  institution = {Cisco Systems},
+  year        = {2026},
+  month       = jun,
+  note        = {Preprint. Artifact: \url{https://github.com/akramIOT/qlaze-core} (v0.9.0)},
+  url         = {https://github.com/akramIOT/qlaze-core}
+}
+
+@unpublished{sheriff2026qlazeieee,
+  author = {Akram Sheriff},
+  title  = {{QLAZE}: Quantum-Resistant Lattice-Anchored Zero-Trust Ephemeral Identity Protocol for Autonomous Multi-Agent Orchestration Networks},
+  note   = {IEEE-style manuscript. Artifact: \url{https://github.com/akramIOT/qlaze-core}},
+  year   = {2026}
+}
+
 ## License
+
+NOTE: PQC Startups and other emerging vendors are NOT allowed to commercialize on this github work as per AGPL as there is a USA C-Corp incorporated based on this PQC Project. 
 
 Apache-2.0
