@@ -50,6 +50,7 @@ Akram Sheriff, *QLAZE: Quantum-Resistant Lattice-Anchored Zero-Trust Ephemeral I
 
 ## For citing QLAZE-core
 
+```
 @techreport{sheriff2026qlaze,
   author      = {Akram Sheriff},
   title       = {{QLAZE}: Quantum-Resistant Lattice-Anchored Zero-Trust Ephemeral Identity Protocol for Autonomous Multi-Agent Orchestration Networks},
@@ -59,13 +60,15 @@ Akram Sheriff, *QLAZE: Quantum-Resistant Lattice-Anchored Zero-Trust Ephemeral I
   note        = {Preprint. Artifact: \url{https://github.com/akramIOT/qlaze-core} (v0.9.0)},
   url         = {https://github.com/akramIOT/qlaze-core}
 }
-
+```
+```
 @unpublished{sheriff2026qlazeieee,
   author = {Akram Sheriff},
   title  = {{QLAZE}: Quantum-Resistant Lattice-Anchored Zero-Trust Ephemeral Identity Protocol for Autonomous Multi-Agent Orchestration Networks},
   note   = {IEEE-style manuscript. Artifact: \url{https://github.com/akramIOT/qlaze-core}},
   year   = {2026}
 }
+```
 
 ## License
 
