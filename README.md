@@ -1,6 +1,8 @@
 # QLAZE-core (v0.9)
 
-Reference implementation of **QLAZE** protocols from the accompanying papers:
+Reference implementation of my Proposed **QLAZE** protocols for PQC Quantum Research work in IBM Quantum cloud platform. 
+
+Accompany Reference papers: 
 
 - **EP-HS** — ML-KEM-768 handshake + HMAC key confirmation
 - **AuthBind** — ML-DSA-65 binding of handshake transcript to coalition key
