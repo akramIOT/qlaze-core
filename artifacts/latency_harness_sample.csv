@@ -1,0 +1,2 @@
+metric,n,median_ms,p98_ms,p999_ms,rtt_ms,wan_p98_ms
+EP-HS+AuthBind CPU,1000,70.16,149.43,180.00,20.0,209.43

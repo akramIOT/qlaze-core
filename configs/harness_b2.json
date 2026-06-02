@@ -1,0 +1,12 @@
+{
+  "benchmark": "B2",
+  "agents": 128,
+  "spawn_rate_per_s": 8.3,
+  "mean_depth": 4.2,
+  "lan_rtt_ms": 0.08,
+  "wan_rtt_ms": 20.0,
+  "ephs_rtt_rounds": 2,
+  "authbind_rtt_rounds": 1,
+  "target_cpu_ephs_authbind_ms_p98": 10.7,
+  "notes": "Target p98 from liboqs-class simulator; artifact CPU measured separately."
+}
